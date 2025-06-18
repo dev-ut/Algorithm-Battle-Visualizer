@@ -44,10 +44,8 @@ An **interactive algorithm battle visualizer** that compares two sorting algorit
 ```bash
 # Frontend
 cd frontend
-npm install
 npm run dev
 
 # Backend
 cd backend
-npm install
-nodemon server.js
+npx nodemon 
